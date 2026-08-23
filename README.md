@@ -8,13 +8,13 @@ Unity 기반의 2D 카드 전략 게임
 
 ---
 
-## 📖 프로젝트 소개
+## 프로젝트 소개
 
 TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한 2D 카드 게임입니다.
 
 플레이어는 게임 중 카드를 선택하고 조합하여 다양한 포커 족보를 만들 수 있으며, 완성된 카드 조합을 바탕으로 상대와 경쟁합니다.
 
-단순히 포커 규칙을 재현하는 것이 아니라, 카드 선택과 조합 과정이 게임 플레이의 전략적인 선택으로 이어지도록 게임의 규칙과 플레이 흐름을 설계했습니다.
+카드 선택과 조합 과정이 게임 플레이의 전략적인 선택으로 이어지도록 게임의 규칙과 플레이 흐름을 설계했습니다.
 
 | 항목 | 내용 |
 | --- | --- |
@@ -28,7 +28,7 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 게임 플레이 영상은 아래 링크에서 확인할 수 있습니다.
 
@@ -36,7 +36,21 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## 👨‍💻 My Role
+## Download
+
+게임 실행파일은 아래 링크에서 다운로드 할 수 있습니다.
+
+**Windows**
+
+[Download for Windows](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view?utm_source=chatgpt.com)
+
+**macOS**
+
+[Download for macOS](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view?utm_source=chatgpt.com)
+
+---
+
+## My Role
 
 ### Game Design
 
@@ -54,13 +68,12 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 - 카드 선택 및 필드 시스템 구현
 - 게임 결과 처리
 - UI 및 사운드 관련 기능 구현
-- 옵션 및 해상도 설정 기능 구현
 
 ---
 
-# 🎯 주요 구현 기능
+# 주요 구현 기능
 
-## 🃏 카드 시스템
+## 카드 시스템
 
 게임의 핵심 요소인 카드를 게임 내 데이터와 오브젝트로 관리했습니다.
 
@@ -74,7 +87,7 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## ♠️ 포커 족보 판정
+## 포커 족보 판정
 
 선택한 카드 조합을 분석하여 포커 족보를 판정하는 시스템을 구현했습니다.
 
@@ -86,7 +99,7 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## 👤 플레이어 및 적 시스템
+## 플레이어 및 적 시스템
 
 플레이어의 카드 선택과 게임 진행 로직을 구현하고, 적이 게임의 흐름에 따라 행동할 수 있도록 별도의 적 시스템을 구성했습니다.
 
@@ -99,7 +112,7 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## 🎮 게임 진행 시스템
+## 게임 진행 시스템
 
 카드 배분, 플레이어와 적의 행동, 족보 판정, 게임 결과 처리 등 게임의 전체 흐름을 관리하는 시스템을 구현했습니다.
 
@@ -113,57 +126,13 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ---
 
-## 🖥️ UI 및 게임 환경 설정
-
-게임 플레이에 필요한 UI와 함께 사운드, 옵션, 해상도 등의 게임 환경 설정 기능을 구현했습니다.
-
-### UI
-
-- 메인 화면
-- 게임 진행 화면
-- 결과 화면
-- 게임 내 안내 및 팁
-- 옵션 UI
-
-### Sound
-
-- 메인 화면 사운드
-- 게임 진행 사운드
-- 효과음 관리
-
-### Option
-
-- 게임 옵션 설정
-- 해상도 변경
-- 화면 크기 및 UI 관련 설정
-
----
-
-# 🛠 사용 기술
+# 사용 기술
 
 | 기술 | 활용 |
 | --- | --- |
 | Unity | 게임 클라이언트 개발 |
 | C# | 게임 로직 및 시스템 구현 |
 | Unity UI | 게임 화면 및 인터페이스 구현 |
-
----
-
-# 🔗 Links
-
-### 🎥 Gameplay Video
-
-[YouTube - TOSPADA Gameplay](https://www.youtube.com/watch?v=RJ1uljOHJCw&utm_source=chatgpt.com)
-
-### 💾 Download
-
-**Windows**
-
-[Download for Windows](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view?utm_source=chatgpt.com)
-
-**macOS**
-
-[Download for macOS](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view?utm_source=chatgpt.com)
 
 ---
 
