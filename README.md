@@ -4,7 +4,6 @@
   <img src="ScreenShot/s3.jpg" width="85%" alt="TOSPADA 메인 화면">
 </p>
 
-Unity 기반의 2D 카드 전략 게임
 
 포커의 족보 규칙을 기반으로 카드를 조합하고, 상대와의 승부를 통해 게임을 진행하는 PC 플랫폼 게임입니다.
 
