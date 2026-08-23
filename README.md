@@ -1,5 +1,9 @@
 # TOSPADA
 
+<p align="center">
+  <img src="ScreenShot/s3.jpg" width="85%" alt="TOSPADA 메인 화면">
+</p>
+
 Unity 기반의 2D 카드 전략 게임
 
 포커의 족보 규칙을 기반으로 카드를 조합하고, 상대와의 승부를 통해 게임을 진행하는 PC 플랫폼 게임입니다.
@@ -30,9 +34,17 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 ## Gameplay
 
-게임 플레이 영상은 아래 링크에서 확인할 수 있습니다.
+플레이어는 손에 든 카드를 선택해 포커 족보를 완성하고, 완성된 족보로 상대와 승부를 겨룹니다.
 
-[TOSPADA Gameplay Video](https://www.youtube.com/watch?v=RJ1uljOHJCw&utm_source=chatgpt.com)
+| 카드 조합 | 카드 전투 |
+| :---: | :---: |
+| <img src="ScreenShot/s2.jpg" width="100%" alt="포커 족보 카드 조합 화면"> | <img src="ScreenShot/s1.jpg" width="100%" alt="상대와의 카드 전투 화면"> |
+| 카드를 선택해 포커 족보를 완성하는 단계 | 완성한 족보로 상대와 승부하는 단계 |
+
+
+게임 플레이 영상은 아래 이미지를 클릭하면 확인할 수 있습니다.
+
+[TOSPADA Gameplay Video](https://www.youtube.com/watch?v=RJ1uljOHJCw&utm)
 
 ---
 
@@ -42,11 +54,11 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 **Windows**
 
-[Download for Windows](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view?utm_source=chatgpt.com)
+[Download for Windows](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view)
 
 **macOS**
 
-[Download for macOS](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view?utm_source=chatgpt.com)
+[Download for macOS](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view)
 
 ---
 
@@ -81,9 +93,9 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 **관련 코드**
 
-- [Card.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Card.cs?utm_source=chatgpt.com)
-- [UnitCard.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/UnitCard.cs?utm_source=chatgpt.com)
-- [Field.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Field.cs?utm_source=chatgpt.com)
+- [Card.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Card.cs)
+- [UnitCard.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/UnitCard.cs)
+- [Field.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Field.cs)
 
 ---
 
@@ -95,7 +107,7 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 **관련 코드**
 
-- [PokerChecker.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/PokerChecker.cs?utm_source=chatgpt.com)
+- [PokerChecker.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/PokerChecker.cs)
 
 ---
 
@@ -107,8 +119,8 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 **관련 코드**
 
-- [Player.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Player.cs?utm_source=chatgpt.com)
-- [Enemy.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Enemy.cs?utm_source=chatgpt.com)
+- [Player.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Player.cs)
+- [Enemy.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Enemy.cs)
 
 ---
 
@@ -120,9 +132,9 @@ TOSPADA는 포커의 족보 규칙을 게임의 핵심 시스템으로 활용한
 
 **관련 코드**
 
-- [Manager.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Manager.cs?utm_source=chatgpt.com)
-- [Dealer.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Dealer.cs?utm_source=chatgpt.com)
-- [Result.cs](https://github.com/Thispring/Graduation-Game-Project-ScriptOnly/blob/main/Script/Result.cs?utm_source=chatgpt.com)
+- [Manager.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Manager.cs)
+- [Dealer.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Dealer.cs)
+- [Result.cs](https://github.com/Thispring/TOSPADA/blob/main/Script/Result.cs)
 
 ---
 
