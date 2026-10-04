@@ -31,14 +31,14 @@
 | <img src="ScreenShot/s2.jpg" width="100%" alt="포커 족보 카드 조합 화면"> | <img src="ScreenShot/s1.jpg" width="100%" alt="상대와의 카드 전투 화면"> |
 | 카드 5장을 골라 족보를 완성하는 단계 | 완성한 족보로 상대와 승부하는 단계 |
 
-[플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=RJ1uljOHJCw)
+[TOSPADA Gameplay Video](https://www.youtube.com/watch?v=RJ1uljOHJCw)
 
 ---
 
 ## Download
 
-- [Windows 빌드 다운로드](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view)
-- [macOS 빌드 다운로드](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view)
+- [Download for Windows](https://drive.google.com/file/d/1zvfu38_7ixoJsuSYehwvt26DPWS3q7uM/view)
+- [Download for macOS](https://drive.google.com/file/d/1fpbHJBM-X1aVQ4_rocC40X9PYiJJj0Vv/view)
 
 ---
 
